@@ -6,6 +6,7 @@ venv/
 data/
 pdfs/
 chroma/
+chroma1/
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
 
